@@ -1,8 +1,8 @@
-### Hi there 👋
+### AboutMy_Self smiley
 
-AboutMy_Self
 
-Muhammad Ammar smiley
+
+### Muhammad Ammar 
 
 CS Under_Graduate, Javascript lover, Pro Fifa player, critical observer, loves gaming, hates css see_no_evil, loves inovation and alot more.
 
