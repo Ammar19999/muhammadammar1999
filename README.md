@@ -4,7 +4,7 @@
 
 ### Muhammad Ammar 
 
-CS Under_Graduate, Javascript lover, Pro Fifa player, critical observer, loves gaming, hates css see_no_evil, loves inovation and alot more.
+CS Under_Graduate,Back-end development is preferred ,Javascript lover, Pro Fifa player, critical observer, curious to learn, hates css see_no_evil, loves inovation and alot more.
 
 An Inventory Management System (Java, JDBC, Mysql, JavaFX)
 
