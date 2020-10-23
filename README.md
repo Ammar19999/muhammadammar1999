@@ -1,12 +1,15 @@
 ### Hi there 👋
 
-<!--
-**muhammadammar1999/muhammadammar1999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AboutMy_Self
+
+Muhammad Ammar smiley
+
+CS Under_Graduate, Javascript lover, Pro Fifa player, critical observer, loves gaming, hates css see_no_evil, loves inovation and alot more.
+
+An Inventory Management System (Java, JDBC, Mysql, JavaFX)
 
 Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🌱 I’m always a learner ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
